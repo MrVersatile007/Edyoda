@@ -1,0 +1,3 @@
+sample_list = [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+
+sorted (sample_list, key = lambda y:y[1] )
