@@ -1,0 +1,4 @@
+dictionary = {}
+for i in range(ord('a'), ord('z')+1):
+    dictionary[chr(i)]=i
+dictionary
